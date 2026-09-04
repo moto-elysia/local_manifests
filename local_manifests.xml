@@ -2,7 +2,7 @@
 <manifest>
 
     <!-- Remotes -->
-    <remote name="moto-elysia" fetch="https://github.com/moto-elysia" clone-depth="1" />
+    <remote name="moto-elysia" fetch="https://github.com/moto-elysia" />
 
     <!-- Repos -->
     <project path="device/motorola/mumba-kernel" name="android_device_motorola_mumba-kernel" remote="moto-elysia" revision="main" />
