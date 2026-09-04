@@ -10,7 +10,8 @@
     <project path="device/motorola/mumba" name="android_device_motorola_mumba" remote="moto-elysia" revision="lineage-23.2" />
     <project path="vendor/motorola/mumba" name="android_vendor_motorola_mumba" remote="moto-elysia" revision="lineage-23.2" />
     <project path="vendor/motorola/mumba-motocamera" name="android_vendor_motorola_mumba-motocamera" remote="moto-elysia" revision="main" />
-    <project path="hardware/dolby" name="android_hardware_dolby" remote="moto-elysia" revision="main" />
+    <project path="device/motorola/aidl-dolby" name="android_device_motorola_aidl-dolby" remote="moto-elysia" revision="main" />
+    <project path="vendor/motorola/aidl-dolby" name="android_vendor_motorola_aidl-dolby" remote="moto-elysia" revision="main" />
     <project path="hardware/motorola" name="android_hardware_motorola" remote="moto-elysia" revision="lineage-23.2" />
     <project path="packages/apps/DolbyUI" name="android_packages_apps_DolbyUI" remote="moto-elysia" revision="main" />
 
