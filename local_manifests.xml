@@ -6,8 +6,8 @@
 
     <!-- Repos -->
     <project path="device/motorola/mumba-kernel" name="android_device_motorola_mumba-kernel" remote="moto-elysia" revision="main" />
-    <project path="device/motorola/mumba" name="android_device_motorola_mumba" remote="moto-elysia" revision="lineage-23.2" />
-    <project path="vendor/motorola/mumba" name="android_vendor_motorola_mumba" remote="moto-elysia" revision="lineage-23.2" />
-    <project path="hardware/motorola" name="android_hardware_motorola" remote="moto-elysia" revision="lineage-23.2" />
+    <project path="device/motorola/mumba" name="android_device_motorola_mumba" remote="moto-elysia" revision="lineage-24.0" />
+    <project path="vendor/motorola/mumba" name="android_vendor_motorola_mumba" remote="moto-elysia" revision="lineage-24.0" />
+    <project path="hardware/motorola" name="android_hardware_motorola" remote="moto-elysia" revision="lineage-24.0" />
     
 </manifest>
